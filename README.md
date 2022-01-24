@@ -59,6 +59,8 @@ print(value)
 ```
 
 ## Output:
+![image](https://user-images.githubusercontent.com/94165326/150733931-30a9aac4-bfc5-47fe-9afb-934c0c47450b.png)
+
 
 
 ## Result:
